@@ -1,0 +1,14 @@
+{
+  "name": "point-of-sale",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Point-of-sale checkout domain with cart, taxes, discounts, and receipts",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-isolation=none tests/pos.test.mjs",
+    "demo": "node src/cli.mjs demo"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
