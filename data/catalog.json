@@ -1,0 +1,5 @@
+[
+  {"sku":"CAF-001","name":"Coffee beans 500g","price":18.5,"stock":24},
+  {"sku":"MUG-002","name":"Ceramic mug","price":9.9,"stock":6},
+  {"sku":"NOT-003","name":"Pocket notebook","price":4.75,"stock":40}
+]
